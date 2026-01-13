@@ -21,3 +21,6 @@ const vMyShow={
     }
 }
 </script>
+<style scoped>
+    
+</style>
