@@ -12,3 +12,8 @@ app.directive('blue', {
     }
 })
 app.mount('#app')
+app.directive('red', {
+    mounted(element) {
+        element.style.color = 'red'
+    }
+})
